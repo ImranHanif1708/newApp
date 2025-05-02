@@ -58,7 +58,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//hey this is updated
 @Composable
 fun ArtSpaceApp( modifier: Modifier = Modifier) {
     //variable to hold the current state of the image
